@@ -7,4 +7,4 @@ COPY ./dist /usr/share/nginx/html
 # 80포트 오픈
 EXPOSE 80
 
-# 기본 엔트리포인트는 nginx 사용
+# 기본 엔트리포인트는 nginx 사용..
